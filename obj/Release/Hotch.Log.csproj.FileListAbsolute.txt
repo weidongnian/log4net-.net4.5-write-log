@@ -1,0 +1,6 @@
+D:\全息医疗Service\Hotch.Log\obj\Release\Hotch.Log.csproj.CoreCompileInputs.cache
+D:\全息医疗Service\Hotch.Log\bin\Release\Hotch.Log.dll
+D:\全息医疗Service\Hotch.Log\bin\Release\Hotch.Log.pdb
+D:\全息医疗Service\Hotch.Log\bin\Release\log4net.dll
+D:\全息医疗Service\Hotch.Log\obj\Release\Hotch.Log.dll
+D:\全息医疗Service\Hotch.Log\obj\Release\Hotch.Log.pdb

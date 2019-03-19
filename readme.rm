@@ -1,0 +1,12 @@
+使用.net4.5+log4net写的一个日志类库
+
+1，添加项目引用
+
+2，目标项目添加配置文件,Config/Log4net.config
+
+3,使用，example:
+
+3.1,Hotch.Log.Static.Info("写日志");
+
+3.2,var log=new Hotch.Log.Instance();
+  log.Info("写日志");
